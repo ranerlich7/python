@@ -7,3 +7,4 @@ def zugi(my_arr):
 
 
 print(zugi([1, 2, 3, 4]))
+["a","baa","c","zzz"]
